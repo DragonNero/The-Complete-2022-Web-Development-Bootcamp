@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+  font-size: 100px;
+  rotate: 60deg;
+}
+img {
+  background-color: chartreuse;
+  height: 30%;
+  width: 50%;
+}
