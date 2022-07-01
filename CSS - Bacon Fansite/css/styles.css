@@ -1,10 +1,40 @@
-h1 {
-  color: red;
-  font-size: 100px;
-  rotate: 60deg;
+/************TAG selectors**********/
+
+
+h1:hover {
+  color: gold;
 }
+
+img:hover {
+  background-color: gold;
+}
+/* CLASS selectors ********
+classes - I can repeat the same class multiple times in one page
+good to use for a group of related items
+you can have many classes
 img {
   background-color: chartreuse;
-  height: 30%;
-  width: 50%;
+  height: 10%;
+  width: 20%;
 }
+*/
+.bacon {
+  background-color: green;
+}
+.broccoli {
+  background-color: red;
+}
+.circular {
+  border-radius: 100%;
+}
+
+/************ ID selectors*********
+I can have only one id with the same name in one page
+specific style for a single element
+you can have only one id
+*/
+/*
+#heading {
+  color: blue;
+}
+*/
