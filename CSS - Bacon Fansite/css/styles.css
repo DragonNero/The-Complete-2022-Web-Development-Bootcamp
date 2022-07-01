@@ -5,6 +5,8 @@ h1:hover {
   color: gold;
 }
 
+/*Pseudo class :hover selectors */
+
 img:hover {
   background-color: gold;
 }
