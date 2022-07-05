@@ -16,27 +16,28 @@ img {
 }
 
 .top-container {
-  background-color:#7DEDFF;
+  background-color:red;
   margin-top:0;
   margin-bottom: 0;
   height: 200px;
   width: 200px;
-
+  position: absolute;
+  left: 400px;
+  top: 400px;
 }
 .middle-container {
-  background-color:#7C83FD;
-  height: 200px;
-  width: 200px;
-  position: relative;
-  bottom: 200px;
-  left: 200px;
-
-}
-.bottom-container {
   background-color:blue;
   height: 200px;
   width: 200px;
-  position: relative;
-  bottom: 400px;
-  left: 400px;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+
+}
+.bottom-container {
+  background-color:yellow;
+  height: 200px;
+  width: 200px;
+  position: fixed;
+
 }
