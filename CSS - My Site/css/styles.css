@@ -22,7 +22,7 @@ p {
 }
 
 .top-container {
-  background-color:#88FFF7;
+  background-color:#7C83FD;
   padding-top: 200px;
   margin-top:0;
   top: 2000px;
@@ -40,8 +40,8 @@ p {
 }
 
 
-/* .middle-container {
-  background-color:red;
+.middle-container {
+  background-color:#96BAFF;
   height: 200px;
   width: 200px;
   position: absolute;
@@ -49,10 +49,9 @@ p {
   left: 200px;
 }
 .bottom-container {
-  background-color:green;
+  background-color:#88FFF7;
   height: 200px;
   width: 200px;
   position: fixed;
 
 }
-*/
