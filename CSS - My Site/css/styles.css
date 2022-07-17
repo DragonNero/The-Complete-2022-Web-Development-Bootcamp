@@ -4,7 +4,8 @@ body {
   font-family: 'Merriweather', serif;
 }
 h1 {
-  width: 30%;
+  font-size: 562.5%;
+  width: 40%;
   margin: 0 auto;
   top: 200px;
   font-family: 'Sacramento', cursive;
