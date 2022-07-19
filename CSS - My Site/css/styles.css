@@ -20,10 +20,11 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
-p {
+/* p {
   margin:200px;
   margin-top: 0;
 }
+/* */
 
 .top-container {
   background-color:#C6FCE5;
@@ -46,6 +47,23 @@ p {
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+img {
+display: inline-block;
+margin: 30px;
+}
+
+.skill-img {
+  width: 30%;
+  float: left;
+  clip-path: circle();
+}
+
+.clear {
+  clear: both;
 }
 
 .middle-container {
