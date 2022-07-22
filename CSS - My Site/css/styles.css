@@ -28,6 +28,9 @@ hr {
   border-top: 5px dotted #EAF6F6;
   background-color: none;
 }
+a {
+  background-color: #11999E;
+}
 
 /* p {
   margin:200px;
@@ -83,8 +86,11 @@ margin: 30px;
 }
 
 .bottom-container {
-  background-color: #2bc4ad;
+  background-color: #66BFBF;
 }
 .contact-me {
   background-color: white;
+}
+.my_name {
+  color: white;
 }
