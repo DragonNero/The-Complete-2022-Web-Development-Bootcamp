@@ -36,6 +36,10 @@ a {
 
 p {
   line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+}
+ul {
+  list-style-type: circle;
 }
 .top-container {
   background-color: #EAF6F6;
@@ -60,6 +64,7 @@ p {
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* img {
@@ -161,4 +166,7 @@ margin: 30px;
 
 .contact-me_paragraph {
   margin: 20px 40px 60px;
+}
+.skill-table {
+
 }
